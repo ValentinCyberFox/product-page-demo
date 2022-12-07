@@ -1,4 +1,3 @@
-
 @media screen and (max-width: 1200px) {
   .characteristics-table {
     display: none;
@@ -126,6 +125,10 @@
 
   .reviews__content {
     margin-bottom: 40px;
+  }
+
+  .reviews__heading-conteiner {
+    font-size: calc(24rem / var(--font-size-maket));
   }
 
   .fa-star img {
