@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+.ads__block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-weight: 400;
+  font-size: 14px;
+  color: #888;
+  background: #eee;
+}

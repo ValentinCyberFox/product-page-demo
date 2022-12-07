@@ -1,0 +1,31 @@
+:root {
+  /* Colors Settings */
+  --main-btn-clr: #f36223;
+  --main-btn-clr-hover: #da4a0c;
+  --main-btn-clr-clicked: #a93a09;
+  --main-btn-clr-checked: #989898;
+  --second-btn-clr-hover: #f2f2f2;
+  --link-clr: #008cf0;
+  --main-clr-background: #f8fafe;
+  --main-clr-text: #000;
+  --second-clr-text: #fff;
+  --clr-lable: #ff5722;
+
+  /* Font Settings */
+  --font-size-maket: 16;
+  --font-weight-b: 700;
+  --font-weight-m: 500;
+  --font-weight-s: 400;
+  --font-style-normal: normal;
+  --font-style-italic: italic;
+
+  /* Page Settings */
+
+  /* ---- Bounding container---- */
+
+  --page-max-width: 1500px;
+  --page-padding-top: 0;
+  --page-padding-right: 50px;
+  --page-padding-bottom: 0;
+  --page-padding-left: 50px;
+}
